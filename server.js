@@ -34,6 +34,11 @@ app.get('/jwtid', requireAuth, (req, res) => {
 app.use('/api/user', userRoutes);
 app.use('/api/post', postRoutes);
 
+// Adding route for root path
+app.get('/', (req, res) => {
+  res.status(200).send('Bienvenue sur mon serveur API !');
+});
+
 // server
 app.listen(process.env.PORT, () => {
   console.log(`Listening on port ${process.env.PORT}`);
