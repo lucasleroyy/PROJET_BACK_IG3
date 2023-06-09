@@ -1,8 +1,8 @@
-Découvrez une toute nouvelle expérience artistique avec notre site web : Libérer l'artiste, le réseau social français dédié à toutes les formes d'expression artistique !
+Découvrez une toute nouvelle expérience artistique avec notre application web : Libérer l'artiste, le réseau social français dédié à toutes les formes d'expression artistique !
 
 🎨 Description
 
-Dans le monde de l'art, de nombreux artistes talentueux ont été injustement méconnus de leur vivant, privés de la reconnaissance qu'ils méritaient pour leur génie créatif. Mais aujourd'hui, grâce à l'avènement des réseaux sociaux, nous avons le pouvoir de changer cela. Notre site web est conçu pour offrir aux artistes, qu'ils soient établis ou émergents, une visibilité sans pareille et une communauté passionnée prête à les soutenir.
+Dans le monde de l'art, de nombreux artistes talentueux ont été injustement méconnus de leur vivant, privés de la reconnaissance qu'ils méritaient pour leur génie créatif. Mais aujourd'hui, grâce à l'avènement des réseaux sociaux, nous avons le pouvoir de changer cela. Notre application web est conçue pour offrir aux artistes, qu'ils soient établis ou émergents, une visibilité sans pareille et une communauté passionnée prête à les soutenir.
 
 Loin des clichés superficiels, notre réseau social place l'art au cœur de son univers. Qu'il s'agisse de peinture, de musique, de sculpture ou de tout autre domaine artistique, notre plateforme se consacre exclusivement à célébrer la créativité authentique et inspirante.
 
@@ -20,8 +20,18 @@ Imaginez pouvoir partager vos œuvres avec des milliers d'adeptes passionnés, r
 
 - Actualités et ressources : Restez informé des dernières actualités artistiques, des événements culturels et des ressources créatives pour nourrir votre esprit artistique.
 
+🚀 Démarrez
+
+Voici comment vous pouvez utiliser Libérer l'artiste sur votre navigateur.
+
+📥 Installation et configuration
+
+Il n'est pas nécessaire d'installer quoi que ce soit. Vous pouvez accéder à Libérer l'artiste en visitant notre site web à l'adresse : https://liberer-lartiste.onrender.com/
+
 🌐 Disponibilité
 
 Libérer l'artiste est accessible via notre site web. Vous pouvez vous inscrire et accéder à toutes les fonctionnalités en ligne.
 
-Rejoignez notre communauté artistique dès maintenant et libérez votre créativité avec Libérer l'artiste !
+Rejoignez notre communauté artistique dès maintenant et libérez votre créativité avec Lib
+
+érer l'artiste !
