@@ -35,3 +35,7 @@ Libérer l'artiste est accessible via notre site web. Vous pouvez vous inscrire 
 Rejoignez notre communauté artistique dès maintenant et libérez votre créativité avec Lib
 
 érer l'artiste !
+
+👨‍💻 Author
+
+Lucas Leroy
