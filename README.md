@@ -16,7 +16,7 @@ Installez les dépendances nécessaires.
 npm install
 Créez un fichier .env dans votre répertoire config et remplissez-le avec vos paramètres de configuration. Voici un exemple :
 PORT=4000
-DB_USER_PASS=lucasleroy02:79nftj352kds
+DB_USER_PASS=lucasleroy02:79nf
 TOKEN_SECRET=990bf68e6adf1be5f1671bba3bec692056922454 
 CLIENT_URL=http://localhost:3000 
 
