@@ -1,6 +1,6 @@
 API Libérer l'artiste
 
-Bienvenue dans le référentiel officiel de l'API Libérer l'artiste, qui sert de base solide à l'application Libérer l'artiste. Cette API suit les principes de l'architecture REST et est développée à l'aide d'une pile technologique comprenant Node.js, Express et Prisma.io. Elle est hébergée sur le service de cloud computing d'Amazon, AWS EC2, et utilise une base de données SQL pour gérer et stocker les informations.
+Bienvenue dans le référentiel officiel de l'API Libérer l'artiste, qui sert de base solide à l'application Libérer l'artiste. Cette API suit les principes de l'architecture REST et est développée à l'aide d'une pile technologique comprenant Node.js, Express et Prisma.io. Elle est hébergée sur le service de cloud de ender et utilise une base de données MongoDB pour gérer et stocker les informations.
 
 🚀 Premiers pas
 
